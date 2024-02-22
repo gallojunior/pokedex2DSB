@@ -4,3 +4,7 @@ git config --global user.email gallojunior@gmail.com
 
 Criar um projeto MVC
 dotnet new mvc -o Pokedex
+
+Para executar o projeto:
+cd Pokedex
+dotnet watch run
